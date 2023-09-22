@@ -1,0 +1,14 @@
+{
+  "name": "course-demo-api",
+  "version": "1.0.0",
+  "description": "Events Rest API for Nextjs Course - Data from Guichet.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Kawtar Choubari",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

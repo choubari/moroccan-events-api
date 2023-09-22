@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+# data & functions used to prepare db.json 
+/data
+/utils
